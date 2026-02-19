@@ -1,0 +1,66 @@
+{
+  "businessName": "STORY BOOK PRESCHOOL",
+  "category": "Preschool",
+  "tagline": "A friendly, trustworthy preschool site for parents-simple and informative.",
+  "address": "1687 STRATHCONA AVE, Prince George, BC V2L 4E7",
+  "phone": "250-961-6183",
+  "email": "storybookpreschoolpg@gmail.com",
+  "notes": "Listing says: Preschool.",
+  "services": [
+    {
+      "name": "Programs (confirm)",
+      "desc": "Examples: schedule, age groups, curriculum overview."
+    },
+    {
+      "name": "Enrollment inquiries",
+      "desc": "Clear steps to request info and next steps."
+    },
+    {
+      "name": "Parent information",
+      "desc": "What to bring, policies (to be provided)."
+    },
+    {
+      "name": "Contact",
+      "desc": "Phone/email and address with map link."
+    }
+  ],
+  "palette": {
+    "bg": "#fff9f3",
+    "text": "#2d2a25",
+    "accent": "#c84f16",
+    "accent2": "#2c7a7b"
+  },
+  "slug": "story-book-preschool",
+  "mapLink": "https://www.google.com/maps/search/?api=1&query=1687%20STRATHCONA%20AVE%2C%20Prince%20George%2C%20BC%20V2L%204E7",
+  "serviceArea": "",
+  "placeholders": {
+    "hero": "Placeholder: hero image (classroom or learning space)",
+    "about": "Placeholder: classroom environment photo",
+    "homeGallery": [
+      "Placeholder: classroom overview",
+      "Placeholder: learning corner",
+      "Placeholder: reading area",
+      "Placeholder: activity table",
+      "Placeholder: play area",
+      "Placeholder: entry/sign-in area",
+      "Placeholder: parent info board",
+      "Placeholder: supplies setup",
+      "Placeholder: daily routine board",
+      "Placeholder: outdoor activity area",
+      "Placeholder: teacher/team image",
+      "Placeholder: Prince George neighborhood context"
+    ],
+    "servicesGallery": [
+      "Placeholder: program overview",
+      "Placeholder: schedule visual",
+      "Placeholder: age group area",
+      "Placeholder: enrollment process",
+      "Placeholder: curriculum materials",
+      "Placeholder: parent communication",
+      "Placeholder: safety policy section",
+      "Placeholder: what to bring",
+      "Placeholder: classroom detail",
+      "Placeholder: welcoming entry photo"
+    ]
+  }
+}
